@@ -1,0 +1,135 @@
+{'modelVersion': '2023-10-01', 'metadata': {'width': 1792, 'height': 1024
+    }, 'tagsResult': {'values': [
+            {'name': 'cartoon', 'confidence': 0.9413453340530396
+            },
+            {'name': 'animated cartoon', 'confidence': 0.9316613674163818
+            },
+            {'name': 'animation', 'confidence': 0.9121871590614319
+            },
+            {'name': 'illustration', 'confidence': 0.8439600467681885
+            }
+        ]
+    }, 'objectsResult': {'values': [
+            {'boundingBox': {'x': 1234, 'y': 489, 'w': 387, 'h': 471
+                }, 'tags': [
+                    {'name': 'Toy', 'confidence': 0.522
+                    }
+                ]
+            },
+            {'boundingBox': {'x': 721, 'y': 591, 'w': 403, 'h': 393
+                }, 'tags': [
+                    {'name': 'mammal', 'confidence': 0.549
+                    }
+                ]
+            }
+        ]
+    }, 'readResult': {'blocks': [
+            {'lines': [
+                    {'text': 'DO NOT', 'boundingPolygon': [
+                            {'x': 722, 'y': 273
+                            },
+                            {'x': 908, 'y': 274
+                            },
+                            {'x': 907, 'y': 335
+                            },
+                            {'x': 721, 'y': 335
+                            }
+                        ], 'words': [
+                            {'text': 'DO', 'boundingPolygon': [
+                                    {'x': 725, 'y': 274
+                                    },
+                                    {'x': 793, 'y': 274
+                                    },
+                                    {'x': 790, 'y': 336
+                                    },
+                                    {'x': 722, 'y': 335
+                                    }
+                                ], 'confidence': 0.998
+                            },
+                            {'text': 'NOT', 'boundingPolygon': [
+                                    {'x': 810, 'y': 274
+                                    },
+                                    {'x': 907, 'y': 275
+                                    },
+                                    {'x': 906, 'y': 336
+                                    },
+                                    {'x': 808, 'y': 336
+                                    }
+                                ], 'confidence': 0.996
+                            }
+                        ]
+                    },
+                    {'text': 'PLAY', 'boundingPolygon': [
+                            {'x': 756, 'y': 363
+                            },
+                            {'x': 896, 'y': 364
+                            },
+                            {'x': 895, 'y': 426
+                            },
+                            {'x': 755, 'y': 422
+                            }
+                        ], 'words': [
+                            {'text': 'PLAY', 'boundingPolygon': [
+                                    {'x': 758, 'y': 363
+                                    },
+                                    {'x': 888, 'y': 364
+                                    },
+                                    {'x': 887, 'y': 426
+                                    },
+                                    {'x': 757, 'y': 424
+                                    }
+                                ], 'confidence': 0.995
+                            }
+                        ]
+                    },
+                    {'text': 'ON', 'boundingPolygon': [
+                            {'x': 796, 'y': 416
+                            },
+                            {'x': 834, 'y': 418
+                            },
+                            {'x': 833, 'y': 447
+                            },
+                            {'x': 795, 'y': 446
+                            }
+                        ], 'words': [
+                            {'text': 'ON', 'boundingPolygon': [
+                                    {'x': 798, 'y': 416
+                                    },
+                                    {'x': 827, 'y': 417
+                                    },
+                                    {'x': 826, 'y': 447
+                                    },
+                                    {'x': 797, 'y': 445
+                                    }
+                                ], 'confidence': 0.99
+                            }
+                        ]
+                    },
+                    {'text': 'GRASS', 'boundingPolygon': [
+                            {'x': 719, 'y': 449
+                            },
+                            {'x': 909, 'y': 450
+                            },
+                            {'x': 907, 'y': 512
+                            },
+                            {'x': 717, 'y': 513
+                            }
+                        ], 'words': [
+                            {'text': 'GRASS', 'boundingPolygon': [
+                                    {'x': 717, 'y': 449
+                                    },
+                                    {'x': 908, 'y': 449
+                                    },
+                                    {'x': 908, 'y': 513
+                                    },
+                                    {'x': 717, 'y': 513
+                                    }
+                                ], 'confidence': 0.994
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

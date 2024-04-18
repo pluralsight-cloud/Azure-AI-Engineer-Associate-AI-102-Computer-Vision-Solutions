@@ -1,0 +1,283 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Apple 3.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Apple 3.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Apple%203.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872184Z"
+    },
+    {
+      "id": 2,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Apple 2.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Apple 2.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Apple%202.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872201Z"
+    },
+    {
+      "id": 3,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Apple 5.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Apple 5.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Apple%205.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872101Z"
+    },
+    {
+      "id": 4,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Orange 1.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Orange 1.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Orange%201.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872Z"
+    },
+    {
+      "id": 5,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Orange 3.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Orange 3.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Orange%203.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872057Z"
+    },
+    {
+      "id": 6,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Apple 4.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Apple 4.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Apple%204.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872118Z"
+    },
+    {
+      "id": 7,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Orange 5.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Orange 5.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Orange%205.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872135Z"
+    },
+    {
+      "id": 8,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Orange 4.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Orange 4.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Orange%204.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872152Z"
+    },
+    {
+      "id": 9,
+      "width": 5712,
+      "height": 4284,
+      "file_name": "Mixed Fruits.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Mixed Fruits.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Mixed%20Fruits.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872168Z"
+    },
+    {
+      "id": 10,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Apple 1.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Apple 1.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Apple%201.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872037Z"
+    },
+    {
+      "id": 11,
+      "width": 4032,
+      "height": 3024,
+      "file_name": "Orange 2.jpg",
+      "coco_url": "AmlDatastore://fruitlabels_datastore/Orange 2.jpg",
+      "absolute_url": "https://sasavilltechwus2ai.blob.core.windows.net/fruits/Orange%202.jpg",
+      "date_captured": "2024-04-18T13:51:50.7872217Z"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "image_id": 1,
+      "area": 0.226,
+      "bbox": [
+        0.2855072463768116,
+        0.16666672563783214,
+        0.4173913043478261,
+        0.5423509680706522
+      ]
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "image_id": 2,
+      "area": 0.207,
+      "bbox": [
+        0.32125606813292573,
+        0.18083737875528383,
+        0.3884057971014493,
+        0.5333333333333333
+      ]
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "image_id": 3,
+      "area": 0.237,
+      "bbox": [
+        0.2555555702983469,
+        0.13188411694217994,
+        0.4251207876896513,
+        0.5578099052687198
+      ]
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "image_id": 3,
+      "area": 0.055,
+      "bbox": [
+        0.0004831065302309783,
+        0.044283394191576085,
+        0.17487921231034873,
+        0.3130434782608696
+      ]
+    },
+    {
+      "id": 5,
+      "category_id": 2,
+      "image_id": 4,
+      "area": 0.16,
+      "bbox": [
+        0.28647345943727354,
+        0.23365537486790458,
+        0.3400966478430707,
+        0.47149758454106283
+      ]
+    },
+    {
+      "id": 6,
+      "category_id": 2,
+      "image_id": 5,
+      "area": 0.132,
+      "bbox": [
+        0.32125606813292573,
+        0.25555561452672104,
+        0.31304347826086953,
+        0.42125603864734296
+      ]
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "image_id": 6,
+      "area": 0.236,
+      "bbox": [
+        0.4053140391474185,
+        0.12544281448143116,
+        0.4193236420120018,
+        0.5629630415911836
+      ]
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "image_id": 7,
+      "area": 0.211,
+      "bbox": [
+        0.29806766233582427,
+        0.2233494560499698,
+        0.39420289855072466,
+        0.5346216174139493
+      ]
+    },
+    {
+      "id": 9,
+      "category_id": 2,
+      "image_id": 8,
+      "area": 0.164,
+      "bbox": [
+        0.309661865234375,
+        0.2478261459276872,
+        0.3497584246206975,
+        0.4689210163798309
+      ]
+    },
+    {
+      "id": 10,
+      "category_id": 2,
+      "image_id": 9,
+      "area": 0.086,
+      "bbox": [
+        0.36376811594202896,
+        0.383091846410779,
+        0.24541068699048918,
+        0.3491142530948068
+      ]
+    },
+    {
+      "id": 11,
+      "category_id": 1,
+      "image_id": 9,
+      "area": 0.102,
+      "bbox": [
+        0.035265715225883155,
+        0.340579769116093,
+        0.2917874543563179,
+        0.3491142530948067
+      ]
+    },
+    {
+      "id": 12,
+      "category_id": 1,
+      "image_id": 9,
+      "area": 0.124,
+      "bbox": [
+        0.6642512667006341,
+        0.40112723382774756,
+        0.31207726520040757,
+        0.3967793487696257
+      ]
+    },
+    {
+      "id": 13,
+      "category_id": 1,
+      "image_id": 10,
+      "area": 0.211,
+      "bbox": [
+        0.2768115942028985,
+        0.16280199133831522,
+        0.3961353246716485,
+        0.5333333333333333
+      ]
+    },
+    {
+      "id": 14,
+      "category_id": 2,
+      "image_id": 11,
+      "area": 0.183,
+      "bbox": [
+        0.26618360436480976,
+        0.20660223477128623,
+        0.36714972896852355,
+        0.49855072463768113
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "apple"
+    },
+    {
+      "id": 2,
+      "name": "orange"
+    }
+  ]
+}
